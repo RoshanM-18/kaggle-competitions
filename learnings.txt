@@ -1,0 +1,13 @@
+Improving the performance of machine learning models by understanding the seasonal component in time series
+
+1. clearer signal -> identifying and removing the seasonal component cna improve the relationship between input and output variable
+2. more information -> additional information about the seasonal component
+
+removing seasonality
+1. seasonal adjustment or deseasonalizing -> model of seasonality can be removed
+
+a. seasonal stationary -> time series where seasonality have been removed
+b. seasonal non stationary -> time series where seasonality have not been removed
+
+Methods to remove seasonality
+1. differencing
